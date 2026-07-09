@@ -1,6 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=MD%20Rakib%20Al%20Hasan&fontSize=40&fontColor=ffffff"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHaosB1yfKF3Q/profile-displaybackgroundimage-shrink_350_1400/B4EZ9Ez6LhIcAU-/0/1783565887019?e=1785369600&v=beta&t=yqgBnJNmfdgbzluQj1sQ80rJ9rTKNJxmS2l09ukncVk"/>
 </p>"/>
 </p>
 
