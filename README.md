@@ -75,7 +75,7 @@ A modern startup platform where users can explore startup opportunities, connect
 
 - 📍 **Location:** Bangladesh
 - 📧 **Email:** alhasanmdrakib062@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username
+- 💼 **LinkedIn:**https://www.linkedin.com/in/md-rakib-al-hasan-md-rakib-al-hasan/
 - 🌐 **Portfolio:** https://your-portfolio.vercel.app
 
 ---
