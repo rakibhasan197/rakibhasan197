@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=MD%20Rakib%20Al%20Hasan&fontSize=40&fontColor=ffffff"/>
+</p>"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm MD Rakib Al Hasan</h1>
 <h3 align="center">Junior Full-Stack Web Developer from Bangladesh 🇧🇩</h3>
 
