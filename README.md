@@ -80,9 +80,7 @@ A modern startup platform where users can explore startup opportunities, connect
 - 📍 **Location:** Bangladesh
 - 📧 **Email:** alhasanmdrakib062@gmail.com
 - 💼 **LinkedIn:**https://www.linkedin.com/in/md-rakib-al-hasan-md-rakib-al-hasan/
-<a href="https://facebook.com/your-facebook-username" target="_blank">
-  <img src="https://www.facebook.com/" width="40" height="40" alt="Facebook"/>
-</a>
+
 
 ---
 
