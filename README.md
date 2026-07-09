@@ -21,32 +21,33 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ---
 
+## 🚀 Current Activities
+
+- 🌱 Exploring Advanced Next.js
+- 💻 Building modern web applications
+- 🚀 Working on personal full-stack projects
+- 📚 Learning backend development and system design
+
+
 ## 🛠️ Skills
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- Tailwind CSS
-- Redux Toolkit
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux"/>
+</p>
 
 ### Backend
-- Node.js
-- Express.js
 
-### Database
-- MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Firebase
-- REST API
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman"/>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -54,16 +55,28 @@ Passionate about building modern, responsive, and user-friendly web applications
 A modern online bookstore built with **Next.js** where users can browse books, view book details, purchase books, and save their favorite books to a wishlist.
 
 ### 💡 IdeaVault
+
 A startup idea-sharing platform where users can discover, share, and manage innovative startup ideas through a clean and responsive interface.
 
-🔗 Live Demo: https://my-assignment9-client.vercel.app/
+🌐 **Live Demo:** https://my-assignment9-client.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/rakibhasan197/IdeaVault
 
 ### 🚀 StartupForge
-A modern startup platform where users can explore startup opportunities, connect with entrepreneurs, and collaborate on innovative ideas through an intuitive and responsive interface.
 
-🔗 Live Demo: https://my-assignment-10-client.vercel.app/
+A modern startup platform where users can explore startup opportunities, connect with entrepreneurs, and collaborate on innovative ideas.
 
----
+🌐 **Live Demo:** https://my-assignment-10-client.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/rakibhasan197/StartupForge
+
+### 📚 BookNext
+
+A modern online bookstore built with Next.js where users can browse books, purchase books, and save their favorite books to a wishlist.
+
+🌐 **Live Demo:** https://your-booknext-live-link.vercel.app/
+
+💻 **GitHub Repository:** https://github.com/rakibhasan197/BookNext
 
 ## 📊 GitHub Stats
 
@@ -75,11 +88,25 @@ A modern startup platform where users can explore startup opportunities, connect
 
 ---
 
-## 📫 Connect with Me
+## 📈 Contribution Graph
 
-- 📍 **Location:** Bangladesh
-- 📧 **Email:** alhasanmdrakib062@gmail.com
-- 💼 **LinkedIn:**https://www.linkedin.com/in/md-rakib-al-hasan-md-rakib-al-hasan/
+[![Rakib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rakibhasan197&theme=tokyo-night)](https://github.com/rakibhasan197)
+
+## 📫 Connect With Me
+
+<p>
+<a href="https://github.com/rakibhasan197">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/md-rakib-al-hasan-md-rakib-al-hasan">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:alhasanmdrakib062@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
 
 
 ---
