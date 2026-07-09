@@ -1,6 +1,5 @@
 <p align="center"
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQHaosB1yfKF3Q/profile-displaybackgroundimage-shrink_350_1400/B4EZ9Ez6LhIcAU-/0/1783565887019?e=1785369600&v=beta&t=yqgBnJNmfdgbzluQj1sQ80rJ9rTKNJxmS2l09ukncVk"/>
-
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Rakib Al Hasan</h1>
